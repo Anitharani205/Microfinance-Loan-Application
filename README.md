@@ -1,4 +1,4 @@
-💰 Microfinance Loan Application, Disbursement, Installment & Repayment Tracking System (JDBC)
+ Microfinance Loan Application, Disbursement, Installment & Repayment Tracking System (JDBC)
 
  Project Overview :
  
